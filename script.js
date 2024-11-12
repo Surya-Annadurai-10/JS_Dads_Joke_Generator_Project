@@ -10,9 +10,7 @@ let arr = [
 
 let apiKey = 'poulT60TQGGGQ9RCwi1Ucg==NwFSWMLPR9l402LL';
 let apiUrl = 'https://api.api-ninjas.com/v1/dadjokes';
-// const headers = {
-//    " X_Api_key" : apiKey
-// }
+
 function click(){
     box.innerText = "Updating...."
     btn.innerText = "Loading..."
